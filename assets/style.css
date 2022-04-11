@@ -1,0 +1,19 @@
+* {
+    background-color:rgb(199, 199, 199);
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    background: rgb(74, 74, 255);
+    color: white;
+    padding: 45px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+}
+
+h2 {
+font-size: 40px;
+text-align: left;
+}
